@@ -30,6 +30,31 @@ body{
     color:black;
 }
 
+a{
+    text-decoration:none;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: black;
+}
+
+.link{
+    padding-left:5%;
+    text-transform:uppercase;
+}
+
 img{
     position: relative;
     height:40%;
@@ -44,3 +69,4 @@ h1{
 p{
     font-size:150%;
 }
+
